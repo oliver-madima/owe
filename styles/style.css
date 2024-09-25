@@ -19,6 +19,7 @@ li {
     text-decoration: none;
     height: auto;
     border-right: 1px solid #D8B553;
+    padding: 20px 60px;
 }
 
 li > a {
