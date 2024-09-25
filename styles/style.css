@@ -3,7 +3,12 @@ body {
 }
 
 nav {
-    height: 83px;
+    height: auto;
     padding: 10px 40px;
     background-color: #F0E9DE;
+}
+
+nav > ul {
+    float: right;
+    display: inline;
 }
