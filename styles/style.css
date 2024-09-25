@@ -50,11 +50,11 @@ hero {
     width: 100%;
     background-image: url('../images/hero/hero.jpg');
     background-size: cover;
-    padding:300px 100px;
+    padding:240px 100px;
 }
 
 hero > h1{
-    font-size: 68px;
+    font-size: 72px;
     font-weight: 100;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #FFF;
@@ -67,6 +67,12 @@ hero > p {
 }
 
 .primary-button {
-    
+    height: 60px;
+    width: auto;
+    background-color: #52A4A6;
+    color: #FFF;
+    border-radius: 30px;
+    padding: 5px 30px;
+    font-size: 18px;
 }
 
