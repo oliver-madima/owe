@@ -54,9 +54,19 @@ hero {
 }
 
 hero > h1{
-    font-size: 90px;
+    font-size: 68px;
     font-weight: 100;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #FFF;
+}
+
+hero > p {
+    font-size: 24px;
+    font-weight: 100;
+    color: #FFF;
+}
+
+.primary-button {
+    
 }
 
